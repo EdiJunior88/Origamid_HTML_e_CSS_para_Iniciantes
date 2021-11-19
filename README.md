@@ -62,12 +62,14 @@
 </ul>
 
 <h3>CSS Propriedades</h3>
-Unidades
-Tipografia
-Background
-Pseudo Classes
-Pseudo Elements
-Refatorar Exercício
+<ul>
+  <li>Unidades</li>
+  <li>Tipografia</li>
+  <li>Background</li>
+  <li>Pseudo Classes</li>
+  <li>Pseudo Elements</li>
+  <li>Refatorar Exercício</li>
+</ul>
 
 <h3>Responsivo</h3>
 <ul>
