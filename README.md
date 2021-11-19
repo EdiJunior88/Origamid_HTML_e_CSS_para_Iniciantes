@@ -1,12 +1,12 @@
-<h1>FreeCodeCamp</h1>
-<h2>Design Visual Aplicado</h2>
+<h1>ORIGAMID</h1>
+<h2>HTML e CSS para Iniciantes (BETA)</h2>
 
 <p>
-O design visual é uma combinação de tipografia, teoria de cores, gráficos, animação, layout da página e mais para ajudar a entregar sua mensagem única.
+  Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais.
 
-<br>
+  <br>
 
-Neste curso, você vai aprender como aplicar esses diferentes elementos do design visual em suas páginas da web.
+  O objeto do curso não é ir direto ao ponto, e sim fazer você entender o ponto. Eu rodo o ponto, volto no ponto e demonstro o ponto. Esse curso é focado na parte de Código Front End (HTML e CSS).
 </p>
 
 <hr>
@@ -20,40 +20,46 @@ Neste curso, você vai aprender como aplicar esses diferentes elementos do desig
 </ul>
 
 <h3>HTML e CSS Básico</h3>
-Tag
-Tags Iniciais
-Estrutura HTML
-Editor Plugins
-Editor Atalhos
-Link Caminhos
-CSS Básico
-CSS Seletores
-HTML Exercício
-Background e Cores
-Box Model
-Estilos do Browser
-Display
-Display Exercício
-Documentação
-img
+<ul>
+  <li>Tag</li>
+  <li>Tags Iniciais</li>
+  <li>Estrutura HTML</li>
+  <li>Editor Plugins</li>
+  <li>Editor Atalhos</li>
+  <li>Link Caminhos</li>
+  <li>CSS Básico</li>
+  <li>CSS Seletores</li>
+  <li>HTML Exercício</li>
+  <li>Background e Cores</li>
+  <li>Box Model</li>
+  <li>Estilos do Browser</li>
+  <li>Display</li>
+  <li>Display Exercício</li>
+  <li>Documentação</li>
+  <li>img</li>
+</ul>
 
 <h3>CSS Posicionamento</h3>
-Top, Right, Bottom, Left
-Grid Template Columns
-Align e Justify Content
-Grid Column
-Align e Justify Items
-Grid Template Rows
-Flexbox
-Position
-Posicionamento Exercício
+<ul>
+  <li>Top, Right, Bottom, Left</li>
+  <li>Grid Template Columns</li>
+  <li>Align e Justify Content</li>
+  <li>Grid Column</li>
+  <li>Align e Justify Items</li>
+  <li>Grid Template Rows</li>
+  <li>Flexbox</li>
+  <li>Position</li>
+  <li>Posicionamento Exercício</li>
+</ul>
 
 <h3>HTML e Semântica</h3>
-Semântica e Acessibilidade
-Pontos de Referência
-Listas
-Navegação
-blockquote, q, cite, em, strong
+<ul>
+  <li>Semântica e Acessibilidade</li>
+  <li>Pontos de Referência</li>
+  <li>Listas</li>
+  <li>Navegação</li>
+  <li>blockquote, q, cite, em, strong</li>
+</ul>
 
 <h3>CSS Propriedades</h3>
 Unidades
