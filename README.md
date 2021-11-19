@@ -11,6 +11,9 @@
 
 <hr>
 
+<strong>Link do slide do curso:</strong> <a href="https://www.origamid.com/slide/html-e-css-para-iniciantes/#/0101-html-e-css-para-iniciantes/4">https://www.origamid.com/slide/html-e-css-para-iniciantes/#/0101-html-e-css-para-iniciantes/4</a>
+
+<hr>
 
 <h3>HTML e CSS para Iniciantes</h3>
 <ul>
