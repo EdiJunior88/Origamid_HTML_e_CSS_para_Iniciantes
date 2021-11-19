@@ -103,5 +103,5 @@
 
 <hr>
 
-<h4><b>Curso:</b> :green_book: :books: 51 capítulos</h4>
+<h4><b>Aulas:</b> :vhs: 135 video-aulas</h4>
 <h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
