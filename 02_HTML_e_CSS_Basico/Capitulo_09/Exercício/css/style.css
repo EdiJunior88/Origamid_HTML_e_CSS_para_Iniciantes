@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 a {
+  color: seagreen;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 20px;
+}
+
+.estreia {
+  color: darkred;
+}
+
+.amanha {
+  color: darkblue;
+}
