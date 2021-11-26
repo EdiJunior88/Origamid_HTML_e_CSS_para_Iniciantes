@@ -25,17 +25,17 @@ p {
 }
 
 .subtitulo {
-  color: rgb(165, 165, 165);
+  color: #a5a5a5;
   font-size: 18px;
 }
 
 span {
-  color: orange;
+  color: #ffa500;
 }
 
 button {
   background: orange;
-  color: black;
+  color: #000000;
   border-radius: 5px;
   font-size: 17px;
   padding: 10px;
