@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2 {
+  font-weight: normal;
+}
+
+.titulo {
+  font-size: 30px;
+  margin: 30px 0;
+}
+
+.subtitulo {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+.paragrafo {
+  color: #555;
+  margin: 16px 0;
+}
