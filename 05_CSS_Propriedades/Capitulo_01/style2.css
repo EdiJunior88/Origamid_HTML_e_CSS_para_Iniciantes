@@ -1,0 +1,19 @@
+.px {
+  font-size: 32px;
+}
+
+html {
+  font-size: 200%;
+}
+
+div {
+  font-size: 200%;
+}
+
+.em {
+  font-size: 2em;
+}
+
+.rem {
+  font-size: 2rem;
+}
