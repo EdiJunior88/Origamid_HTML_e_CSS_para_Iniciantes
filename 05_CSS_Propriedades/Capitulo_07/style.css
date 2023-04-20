@@ -1,0 +1,54 @@
+a {
+  display: inline-block;
+  padding: 1rem 2rem;
+  font-size: 1.5rem;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  background: #caf;
+  color: #217;
+}
+
+a:hover {
+  background: #adf;
+  color: #147;
+}
+
+a:focus {
+  background: #cfa;
+  color: #371;  
+}
+
+a:active {
+  background: #ffa;
+  color: #761;
+}
+
+/* a:visited {
+  background: #fda;
+  color: #731;
+} */
+
+
+.lista-1 li:first-child {
+  background: #caf;
+}
+
+.lista-1 li:last-child {
+  background: #cfa;
+}
+
+.lista-1 li:nth-child(3) {
+  background: #cfa;
+}
+
+.lista-2 li:nth-child(4n) {
+  background: #cfa;
+}
+
+.lista-3 li:not(:first-child, :last-child, .terceiro) {
+  background: #caf;
+}
+
+h2:not(.contato) {
+  text-decoration: underline;
+}
