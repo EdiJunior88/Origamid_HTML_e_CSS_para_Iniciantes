@@ -1,0 +1,34 @@
+img {
+  max-width: 100%;
+  display: block;
+}
+
+div {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+h1 {
+  grid-column: 1 / -1;
+}
+
+@media (max-width: 600px) {
+  div {
+    grid-template-columns: 1fr;
+  }
+
+  h1 {
+    background: lightpink;
+  }
+
+  img {
+    display: none;
+  }
+}
+
+@media (min-width: 700px) and (max-width: 900px) {
+  p {
+    background: lightskyblue;
+  }
+}
