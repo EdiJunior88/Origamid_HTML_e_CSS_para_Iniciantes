@@ -1,0 +1,20 @@
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.cover img {
+  height: 100%;
+  object-fit: cover;
+  object-position: top left;
+} 
+
+p {
+  font-size: 1.5rem;
+}
