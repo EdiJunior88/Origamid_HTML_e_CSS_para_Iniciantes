@@ -1,25 +1,18 @@
-<h1>ORIGAMID</h1>
-<h2>HTML e CSS para Iniciantes (BETA)</h2>
+<img src="Exercicios/img/origamid-logo.png" width="50%">
+<h2>HTML e CSS para Iniciantes</h2>
 
-<p>
-  Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais.
+<p>Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais.</p>
 
-  <br>
+<p>O objeto do curso não é ir direto ao ponto, e sim fazer você entender o ponto. Eu rodo o ponto, volto no ponto e demonstro o ponto. Esse curso é focado na parte de Código Front End (HTML e CSS).</p>
 
-  O objeto do curso não é ir direto ao ponto, e sim fazer você entender o ponto. Eu rodo o ponto, volto no ponto e demonstro o ponto. Esse curso é focado na parte de Código Front End (HTML e CSS).
+<p>Este curso é para quem deseja entrar ou já está no mercado e desenvolvimento Front End/criação de sites. Se você está iniciando, terá a oportunidade de aprender do zero e para os que já trabalham com web design/front end é uma boa oportunidade para se atualizar/aprender uma abordagem diferente.</p>
 
-  <br>
+<p>Eu foco na teoria + prática, assim você aprende os fundamentos por trás de cada decisão de código. E após isso você implementa em um projeto real — bikcraft.com. Você já sai do curso com um primeiro site profissional construído. Nele eu uso CSS Flexbox e Grid Layout para construir os projetos responsivos e totalmente do zero, sem usar nada pronto.</p>
 
-  Este curso é para quem deseja entrar ou já está no mercado e desenvolvimento Front End/criação de sites. Se você está iniciando, terá a oportunidade de aprender do zero e para os que já trabalham com web design/front end é uma boa oportunidade para se atualizar/aprender uma abordagem diferente.
-
-  <br>
-  
-  Eu foco na teoria + prática, assim você aprende os fundamentos por trás de cada decisão de código. E após isso você implementa em um projeto real — bikcraft.com. Você já sai do curso com um primeiro site profissional construído. Nele eu uso CSS Flexbox e Grid Layout para construir os projetos responsivos e totalmente do zero, sem usar nada pronto.
-</p>
 
 <hr>
 
-<strong>Link do slide do curso:</strong> <a href="https://www.origamid.com/slide/html-e-css-para-iniciantes/">https://www.origamid.com/slide/html-e-css-para-iniciantes/</a>
+<strong>Link do projeto curso:</strong> <a href="">/</a>
 
 <hr>
 
@@ -95,7 +88,7 @@
 <ul>
   <li>Instalar Ferramentas</li>
   <li>Linha de Comando</li>
-  <li>NPM e Cleancss</li>
+  <li>NPM e Clean CSS</li>
   <li>Git</li>
   <li>Fontes</li>
 </ul>
@@ -111,5 +104,15 @@
 
 <hr>
 
-<h4><b>Aulas:</b> :vhs: 164 video-aulas (Total de 23hrs)</h4>
-<h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
+<h3>Tempo Estudando o curso</h3>
+
+<p>
+  <a href="https://wakatime.com/badge/github/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes">
+    <img src="https://wakatime.com/badge/github/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes.svg" alt="wakatime">
+  </a>
+</p>
+
+<hr>
+
+<h4><b>Aulas:</b> 📼 164 video-aulas (Total de 23hrs)</h4>
+<h4><b>Status do Curso:</b> 💭 Estudando</h4>
