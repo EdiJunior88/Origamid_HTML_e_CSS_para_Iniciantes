@@ -12,7 +12,7 @@
 
 <hr>
 
-<strong>Link do projeto curso:</strong> <a href="">/</a>
+<strong>Link do projeto curso:</strong> <a href="https://portfolio-v2-edijunior88.netlify.app/">https://portfolio-v2-edijunior88.netlify.app/</a>
 
 <hr>
 
