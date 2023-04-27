@@ -12,7 +12,7 @@
 
 <hr>
 
-<strong>Link do projeto curso:</strong> <a href="https://portfolio-v2-edijunior88.netlify.app/">https://portfolio-v2-edijunior88.netlify.app/</a>
+<strong>Link do projeto curso:</strong> <a href="https://origamid-html-css-portfolio.netlify.app/">https://origamid-html-css-portfolio.netlify.app/</a>
 
 <hr>
 
