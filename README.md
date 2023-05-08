@@ -105,7 +105,7 @@
 <hr>
 
 <h3>Status do Deploy</h3>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f8cd3c60-3428-49f2-ac26-8be687175698/deploy-status)](https://app.netlify.com/sites/origamid-html-css-portfolio/deploys)
+<img src="https://api.netlify.com/api/v1/badges/f8cd3c60-3428-49f2-ac26-8be687175698/deploy-status"></img>
 
 <hr>
 
