@@ -1,8 +1,6 @@
-@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap");
-
 body {
-  margin: 0;
   font-family: "Fira Sans", Arial, sans-serif;
+  margin: 0px;
   color: #141414;
 }
 
@@ -10,12 +8,12 @@ h1,
 h2,
 h3,
 p {
-  margin: 0;
+  margin: 0px;
 }
 
 ul {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   list-style: none;
 }
 
@@ -26,16 +24,16 @@ img {
 
 .subtitulo {
   font-size: 8rem;
-  word-break: break-all;
   line-height: 1;
   text-transform: uppercase;
+  word-break: break-all;
   max-width: 4ch;
 }
 
-@media (width <= 800px) {
+@media (max-width: 800px) {
   .subtitulo {
     font-size: 3rem;
     text-transform: capitalize;
-    max-width: initial;
+    max-width: initial !important;
   }
 }
