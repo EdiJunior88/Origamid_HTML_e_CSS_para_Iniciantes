@@ -1,40 +1,36 @@
-p [required] {
-  border: 2px solid tomato;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2rem;
 }
 
-a[href="#contato"] {
-  border: 2px solid greenyellow;
+label {
+  display: block;
+  margin-bottom: 10px;
 }
 
-[href^="#"] {
-  background: tomato;
+input {
+  font-size: 1.2rem;
+  padding: 10px;
+  margin-bottom: 30px;
 }
 
-[href$=".com"] {
-  background: forestgreen;
+.checkbox,
+.radio {
+  display: grid;
+  align-items: center;
+  grid-template-columns: auto 1fr;
+  gap: 10px;
+  margin-bottom: 10px;
 }
 
-section > h2 {
-  color: tomato;
-}
-
-p {
+.checkbox label,
+.radio label {
   margin: 0px;
 }
 
-article {
-  background: lightgreen;
-  padding: 10px;
-}
-
-p + p {
-  margin-top: 20px;
-}
-
-body {
-  color: blue;
-}
-
-* {
-  border: 2px solid red;
+.checkbox input,
+.radio input {
+  width: 20px;
+  height: 20px;
+  margin: 0px;
 }
