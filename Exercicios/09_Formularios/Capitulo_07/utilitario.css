@@ -1,0 +1,66 @@
+body {
+  font-family: sans-serif;
+}
+
+h1,
+h2,
+p {
+  margin: 0px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.texto-grande {
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 300;
+}
+
+.texto-medio {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 300;
+}
+
+.flex {
+  display: flex;
+}
+
+.gap-60 {
+  gap: 60px;
+}
+
+.gap-30 {
+  gap: 30px;
+}
+
+.cor-primaria {
+  color: #06f;
+}
+
+.cor-cinza {
+  color: #707070;
+}
+
+.mb-1 {
+  margin-bottom: 20px;
+}
+
+.mb-2 {
+  margin-bottom: 40px;
+}
+
+.btn {
+  background: #06f;
+  color: #fff;
+  text-decoration: none;
+  padding: 8px 16px;
+  font-size: 20px;
+  line-height: 30px;
+  display: inline-block;
+  border-radius: 5px;
+}

@@ -1,0 +1,53 @@
+body {
+  font-family: sans-serif;
+}
+
+h1,
+h2,
+p {
+  margin: 0px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.container h1 {
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 300;
+  color: #06f;
+  margin-bottom: 40px;
+}
+
+.seguros {
+  display: flex;
+  gap: 60px;
+}
+
+.seguros h2 {
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 300;
+}
+
+.seguros p {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 300;
+  margin-bottom: 20px;
+  color: #707070;
+}
+
+.btn {
+  background: #06f;
+  color: #fff;
+  text-decoration: none;
+  padding: 8px 16px;
+  font-size: 20px;
+  line-height: 30px;
+  display: inline-block;
+  border-radius: 5px;
+}
