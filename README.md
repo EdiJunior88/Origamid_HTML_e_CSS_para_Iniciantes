@@ -13,8 +13,6 @@
 
 <strong>Link do projeto 1 curso:</strong> <a href="https://origamid-html-css-portfolio.netlify.app/">https://origamid-html-css-portfolio.netlify.app/</a>
 
-<br>
-
 <strong>Link do projeto 2 curso:</strong> <a href="https://bikcraft-edijunior88.netlify.app/">https://bikcraft-edijunior88.netlify.app/</a>
 
 <hr>
@@ -111,8 +109,6 @@
 <p>Portfólio</p>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cedc340d-0ac7-429b-9b12-e08916ce8a3b/deploy-status)](https://app.netlify.com/sites/portfoliov2-edijunior88/deploys)
-
-<br>
 
 <p>Bikcraft</p>
 
