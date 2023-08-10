@@ -9,10 +9,13 @@
 
 <p>Eu foco na teoria + prática, assim você aprende os fundamentos por trás de cada decisão de código. E após isso você implementa em um projeto real — bikcraft.com. Você já sai do curso com um primeiro site profissional construído. Nele eu uso CSS Flexbox e Grid Layout para construir os projetos responsivos e totalmente do zero, sem usar nada pronto.</p>
 
-
 <hr>
 
-<strong>Link do projeto curso:</strong> <a href="https://origamid-html-css-portfolio.netlify.app/">https://origamid-html-css-portfolio.netlify.app/</a>
+<strong>Link do projeto 1 curso:</strong> <a href="https://origamid-html-css-portfolio.netlify.app/">https://origamid-html-css-portfolio.netlify.app/</a>
+
+<br>
+
+<strong>Link do projeto 2 curso:</strong> <a href="https://bikcraft-edijunior88.netlify.app/">https://bikcraft-edijunior88.netlify.app/</a>
 
 <hr>
 
@@ -104,8 +107,17 @@
 
 <hr>
 
-<h3>Status do Deploy</h3>
-<img src="https://api.netlify.com/api/v1/badges/f8cd3c60-3428-49f2-ac26-8be687175698/deploy-status"></img>
+<h3>Status dos Deploys</h3>
+<p>Portfólio</p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cedc340d-0ac7-429b-9b12-e08916ce8a3b/deploy-status)](https://app.netlify.com/sites/portfoliov2-edijunior88/deploys)
+
+<br>
+
+<p>Bikcraft</p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b5e61e72-b992-44b1-8bd1-d17efd827556/deploy-status)](https://app.netlify.com/sites/bikcraft-edijunior88/deploys)
+
 
 <hr>
 
