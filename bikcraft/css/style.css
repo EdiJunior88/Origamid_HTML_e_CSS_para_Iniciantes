@@ -1,16 +1,16 @@
 body {
-  margin: 0;
+  margin: 0px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 h1,
 ul,
 p {
-  margin: 0;
+  margin: 0px;
 }
 
 ul {
-  padding: 0;
+  padding: 0px;
   list-style: none;
 }
 
@@ -20,12 +20,12 @@ a {
 }
 
 img {
-  display: block;
   max-width: 100%;
+  display: block;
 }
 
 .header-bg {
-  background: #000;
+  background-color: #000000;
 }
 
 .header {
@@ -36,8 +36,9 @@ img {
   align-items: center;
   box-sizing: border-box;
   padding: 20px;
-  max-width: 1160px;
-  margin: 0 auto;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .header-menu {
@@ -47,25 +48,25 @@ img {
 }
 
 .header-menu a {
-  color: #fff;
+  color: #ffffff;
   display: inline-block;
   padding: 16px 0px;
   font-size: 18px;
   position: relative;
 }
 
-.header-menu a::after {
+.header-menu a:after {
   content: "";
   display: block;
-  width: 0%;
   height: 2px;
-  background: #fff;
+  width: 0px;
+  background: #ffffff;
   margin-top: 4px;
   transition: 0.3s;
   position: absolute;
 }
 
-.header-menu a:hover::after {
+.header-menu a:hover:after {
   width: 100%;
 }
 
@@ -73,18 +74,15 @@ img {
   .header-menu {
     gap: 20px;
   }
-
   .header-menu a {
-    background: #111;
+    background: #111111;
     padding: 12px 16px;
     border-radius: 4px;
   }
-
   .header-menu a:hover {
-    background: #2e2e2e;
+    background-color: #2e2e2e;
   }
-
-  .header a::after {
+  .header a:after {
     display: none;
   }
 }
@@ -93,7 +91,6 @@ img {
   .header-menu {
     gap: 12px;
   }
-
   .header-menu a {
     padding: 8px 12px;
     font-size: 14px;
@@ -101,18 +98,24 @@ img {
 }
 
 .introducao-bg {
-  background: #000;
-  color: #fff;
+  background: #000000;
+  color: #ffffff;
 }
 
 .introducao {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 0 40px;
+  gap: 0px 40px;
+  box-sizing: border-box;
+  max-width: 1200px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .introducao-conteudo {
-  align-self: self-end;
+  align-self: end;
   padding-bottom: 80px;
 }
 
@@ -122,9 +125,30 @@ img {
   line-height: 1.125;
 }
 
+.introducao h1 span {
+  color: #ffbb00;
+}
+
 .introducao p {
   margin-bottom: 20px;
   font-size: 24px;
   line-height: 1.5;
   color: #b2b2b2;
+}
+
+.introducao a {
+  display: inline-block;
+  padding: 16px 32px;
+  background: linear-gradient(#ffbf00, #f2a50c);
+  border-radius: 4px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  text-transform: uppercase;
+  color: #332200;
+  font-size: 18px;
+  line-height: 1.33;
+  font-weight: bold;
+}
+
+.introducao a:hover {
+  background: linear-gradient(#ffb60d, #e59317);
 }
