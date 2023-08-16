@@ -2,8 +2,8 @@
 const links = document.querySelectorAll(".header-menu a");
 
 function ativarLink(link) {
-  const href = link.href;
   const url = location.href;
+  const href = link.href;
   if (url.includes(href)) {
     link.classList.add("ativo");
   }
@@ -11,7 +11,8 @@ function ativarLink(link) {
 
 links.forEach(ativarLink);
 
-// Ativar Itens do Orçamento
+// Ativar Items do Orçamento
+
 const parametros = new URLSearchParams(location.search);
 
 function ativarProduto(parametro) {
@@ -23,7 +24,7 @@ function ativarProduto(parametro) {
 
 parametros.forEach(ativarProduto);
 
-//Perguntas Frequentes
+// Perguntas Frequentes
 const perguntas = document.querySelectorAll(".perguntas button");
 
 function ativarPergunta(event) {
@@ -42,7 +43,7 @@ function eventosPerguntas(pergunta) {
 
 perguntas.forEach(eventosPerguntas);
 
-//Galeria de Bicicletas
+// Galeria de Bicicletas
 const galeria = document.querySelectorAll(".bicicleta-imagens img");
 const galeriaContainer = document.querySelector(".bicicleta-imagens");
 
@@ -60,7 +61,7 @@ function eventosGaleria(img) {
 
 galeria.forEach(eventosGaleria);
 
-//Animação
+// Animação
 if (window.SimpleAnime) {
   new SimpleAnime();
 }
