@@ -1,154 +1,40 @@
-body {
-  margin: 0px;
-  font-family: Arial, Helvetica, sans-serif;
-}
+@import "./global/global.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/cores.css";
+@import "./utilidades/animacao.css";
 
-h1,
-ul,
-p {
-  margin: 0px;
-}
+@import "./global/header.css";
+@import "./global/footer.css";
 
-ul {
-  padding: 0px;
-  list-style: none;
-}
+/* Utilidades */
+@import "./utilidades/componentes.css";
+@import "./utilidades/formulario.css";
 
-a {
-  text-decoration: none;
-  color: inherit;
-}
+/* Home */
+@import "./home/introducao.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
 
-img {
-  max-width: 100%;
-  display: block;
-}
+/* Bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
+@import "./bicicletas/bicicletas.css";
 
-.header-bg {
-  background-color: #000000;
-}
+/* Bicicleta */
+@import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
 
-.header {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: space-between;
-  align-items: center;
-  box-sizing: border-box;
-  padding: 20px;
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-}
+/* Seguros */
+@import "./seguros/seguros.css";
+@import "./seguros/vantagens.css";
+@import "./seguros/perguntas.css";
 
-.header-menu {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 40px;
-}
+/* Contato */
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
 
-.header-menu a {
-  color: #ffffff;
-  display: inline-block;
-  padding: 16px 0px;
-  font-size: 18px;
-  position: relative;
-}
+/* Contato */
+@import "./orcamento/orcamento.css";
 
-.header-menu a:after {
-  content: "";
-  display: block;
-  height: 2px;
-  width: 0px;
-  background: #ffffff;
-  margin-top: 4px;
-  transition: 0.3s;
-  position: absolute;
-}
-
-.header-menu a:hover:after {
-  width: 100%;
-}
-
-@media (width <= 800px) {
-  .header-menu {
-    gap: 20px;
-  }
-  .header-menu a {
-    background: #111111;
-    padding: 12px 16px;
-    border-radius: 4px;
-  }
-  .header-menu a:hover {
-    background-color: #2e2e2e;
-  }
-  .header a:after {
-    display: none;
-  }
-}
-
-@media (width <= 600px) {
-  .header-menu {
-    gap: 12px;
-  }
-  .header-menu a {
-    padding: 8px 12px;
-    font-size: 14px;
-  }
-}
-
-.introducao-bg {
-  background: #000000;
-  color: #ffffff;
-}
-
-.introducao {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0px 40px;
-  box-sizing: border-box;
-  max-width: 1200px;
-  padding-left: 20px;
-  padding-right: 20px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.introducao-conteudo {
-  align-self: end;
-  padding-bottom: 80px;
-}
-
-.introducao h1 {
-  margin-bottom: 32px;
-  font-size: 64px;
-  line-height: 1.125;
-}
-
-.introducao h1 span {
-  color: #ffbb00;
-}
-
-.introducao p {
-  margin-bottom: 20px;
-  font-size: 24px;
-  line-height: 1.5;
-  color: #b2b2b2;
-}
-
-.introducao a {
-  display: inline-block;
-  padding: 16px 32px;
-  background: linear-gradient(#ffbf00, #f2a50c);
-  border-radius: 4px;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-  text-transform: uppercase;
-  color: #332200;
-  font-size: 18px;
-  line-height: 1.33;
-  font-weight: bold;
-}
-
-.introducao a:hover {
-  background: linear-gradient(#ffb60d, #e59317);
-}
+/* Termos */
+@import "./termos/termos.css";
