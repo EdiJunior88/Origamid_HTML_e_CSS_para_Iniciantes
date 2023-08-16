@@ -128,4 +128,4 @@
 <hr>
 
 <h4><b>Aulas:</b> 📼 164 video-aulas (Total de 23hrs)</h4>
-<h4><b>Status do Curso:</b> 💭 Estudando</h4>
+<h4><b>Status do projeto:</b> ✅ Concluído</h4>
