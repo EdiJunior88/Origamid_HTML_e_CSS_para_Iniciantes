@@ -108,7 +108,7 @@
 <h3>Status dos Deploys</h3>
 <p>Portfólio</p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cedc340d-0ac7-429b-9b12-e08916ce8a3b/deploy-status)](https://app.netlify.com/sites/portfoliov2-edijunior88/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f8cd3c60-3428-49f2-ac26-8be687175698/deploy-status)](https://app.netlify.com/sites/origamid-html-css-portfolio/deploys)
 
 <p>Bikcraft</p>
 
