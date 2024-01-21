@@ -9,7 +9,7 @@ jobs:
       - run: echo "🐧 Este trabalho agora está sendo executado em um ${{ runner.os }} server hosted by GitHub!"
       - run: echo "🔎 O nome do seu branch é ${{ github.ref }} e do repositório é ${{ github.repository }}."
       - name: List files in the repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - run: echo "💡 The ${{ github.repository }} repositório foi clonado para o executor."
       - run: echo "🖥️ O fluxo de trabalho agora está pronto para testar seu código no executor."
       - name: List files in the repository
