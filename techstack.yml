@@ -1,0 +1,104 @@
+repo_name: EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes
+report_id: 469cf14b1913c447f002e973f2d2fd8b
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T14:29:19+00:00'
+requested_by: EdiJunior88
+provider: github
+branch: main
+detected_tools_count: 8
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes/blob/main/.github/workflows/dependency-review.yml
+  detection_source: ".github/workflows/dependency-review.yml"
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-01-21 16:57:35.000000000 Z
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes/blob/main/bikcraft/package.json
+  detection_source: bikcraft/package.json
+  last_updated_by: EdiJunior88
+  last_updated_on: 2023-08-10 13:37:57.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes/blob/main/bikcraft/package.json
+  detection_source: bikcraft/package.json
+  last_updated_by: EdiJunior88
+  last_updated_on: 2023-08-10 13:37:57.000000000 Z
+- name: Netlify
+  description: Build, deploy and host your static site or app with a drag and drop
+    interface and automatic delpoys from GitHub or Bitbucket
+  website_url: https://www.netlify.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Static Web Hosting
+  image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes/blob/main/Portfolio/package.json
+  detection_source: Portfolio/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-01-29 20:02:15.000000000 Z
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 5.0.12
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes/blob/main/bikcraft/package-lock.json
+  detection_source: bikcraft/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2024-01-21 16:57:47.000000000 Z
