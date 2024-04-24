@@ -8,4 +8,4 @@ updates:
   - package-ecosystem: "npm" #Substitua por "composer", "maven", "pip", etc., dependendo do gerenciador de pacotes do seu projeto
     directory: "./Portfolio" #Caminho para o diretório onde está o arquivo do gerenciador de pacotes (package.json, composer.json, etc.)
     schedule:
-      interval: "weekly" #Intervalo de verificação das atualizações (diário, semanal, mensal)
+      interval: "monthly" #Intervalo de verificação das atualizações (diário, semanal, mensal)
