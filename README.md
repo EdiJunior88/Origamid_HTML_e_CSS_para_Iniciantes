@@ -11,9 +11,9 @@
 
 <hr>
 
-<strong>Link do projeto 1 curso:</strong> <a href="https://origamid-html-css-portfolio.netlify.app/">https://origamid-html-css-portfolio.netlify.app/</a>
+<strong>Link do projeto 1 curso:</strong> <a href="https://edijunior88-origamid-portfolio.netlify.app/">https://edijunior88-origamid-portfolio.netlify.app/</a>
 
-<strong>Link do projeto 2 curso:</strong> <a href="https://bikcraft-edijunior88.netlify.app/">https://bikcraft-edijunior88.netlify.app/</a>
+<strong>Link do projeto 2 curso:</strong> <a href="https://origamid-html-e-css-para-iniciantes.onrender.com/">https://origamid-html-e-css-para-iniciantes.onrender.com/</a>
 
 <hr>
 
