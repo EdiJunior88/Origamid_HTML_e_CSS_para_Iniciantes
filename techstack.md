@@ -4,9 +4,8 @@
 EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes is built on the following main stack:
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Netlify](https://www.netlify.com/) – Static Web Hosting
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
+- [Netlify](https://www.netlify.com/) – Static Web Hosting
 
 Full tech stack [here](/techstack.md)
 
@@ -17,9 +16,8 @@ Full tech stack [here](/techstack.md)
 EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
 
 Full tech stack [here](/techstack.md)
 
@@ -30,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes](https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|02/04/24 <br/>Report generated|
+|7<br/>Tools used|05/02/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -55,20 +53,12 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (4)
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (3)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
   <br>
   <sub><a href="http://git-scm.com/">Git</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'>
-  <br>
-  <sub><a href="https://github.com/features/actions">GitHub Actions</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -112,7 +102,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[vite](https://www.npmjs.com/vite)|v5.0.12|01/21/24|renovate[bot] |N/A|N/A|
+|[vite](https://www.npmjs.com/vite)|v5.0.13|04/03/24|dependabot[bot] |N/A|N/A|
 
 <br/>
 <div align='center'>
